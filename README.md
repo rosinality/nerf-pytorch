@@ -9,8 +9,8 @@ https://user-images.githubusercontent.com/4343568/169726068-cffa00b1-2670-41a1-b
 First, download and extract LLFF data in the data directory
 
 ```bash
-wget http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG19/lffusion/testscene.zip
-unzip testscene.zip
+wget http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/nerf_example_data.zip
+unzip nerf_example_data.zip
 ```
 
 So that data directories is placed under data directory, like this:
