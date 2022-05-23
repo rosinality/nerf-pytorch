@@ -1,7 +1,8 @@
 # nerf-pytorch
 
-![fern sample video](samples/fern.mp4)
-![snacks sample video](samples/snacks.mp4)
+https://user-images.githubusercontent.com/4343568/169726055-6a4445fe-a118-4d4d-b728-2ea866e8070a.mp4
+
+https://user-images.githubusercontent.com/4343568/169726068-cffa00b1-2670-41a1-bde0-38549775c988.mp4
 
 ## Usage
 
